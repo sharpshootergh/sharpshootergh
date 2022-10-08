@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharpshootergh
 - 👀 I’m interested in cloud devops 
-- 🌱 I’m currently learning pyton and aws 
+- 🌱 I’m currently learning Python and AWS 
 - 💞️ I’m looking to collaborate on cloud infracsrature as code projects 
 - 📫 How to reach me Elishaatosagoe@gmail.com
 
