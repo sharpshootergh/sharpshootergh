@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elisha Sagoe 
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Python and AWS 
-- 💞️ I’m looking to collaborate on devops projrcts 
+- 💞️ I’m looking to collaborate on devops projects 
 - 📫 How to reach me Elishaatosagoe@gmail.com
 
 <!---
