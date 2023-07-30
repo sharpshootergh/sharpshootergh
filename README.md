@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elisha Sagoe
 ====================================================================================================================================
 
-Web Dev & Devops engineer
+Web Dev & DevOps engineer
 -------------------------
 
 Experienced PHP/Laravel developer skilled in coding, debugging, problem-solving, and user experience. Proficient in developing web apps, writing efficient code, and implementing CI/CD.
@@ -10,7 +10,7 @@ Experienced PHP/Laravel developer skilled in coding, debugging, problem-solving,
 *   ✉️  You can contact me at [elishaatosagoe@gmail.com](mailto:elishaatosagoe@gmail.com)
 *   🧠  I'm learning Kubernetes and monitoring
 *   🤝  I'm open to collaborating on CI/CD & Laravel projects
-  ### Skills 
+### Skills 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -30,17 +30,11 @@ Experienced PHP/Laravel developer skilled in coding, debugging, problem-solving,
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
                     
-  ### Socials
-                  
-  <p align="left">
-                          
-  <a href="https://www.github.com/sharpshootergh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
+### Socials
+<p align="left">
+<a href="https://www.github.com/sharpshootergh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/elisha-sagoe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
 <a href="http://www.medium.com/@elishaatosagoe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>
-                          
 <a href="https://www.twitter.com/elishasagoe " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-                          
 <a href="https://www.youtube.com/c/sharpshootergh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
 href="http://www.github.com/sharpshootergh"><img src="https://github-readme-stats.vercel.app/api?username=sharpshootergh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sharpshootergh's GitHub stats" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
