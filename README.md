@@ -30,18 +30,17 @@ Experienced PHP/Laravel developer skilled in coding, debugging, problem-solving,
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
                     
-                  ### Socials
+  ### Socials
                   
-                  
-                <p align="left">
+  <p align="left">
                           
-                      <a href="https://www.github.com/sharpshootergh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+  <a href="https://www.github.com/sharpshootergh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/elisha-sagoe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/elisha-sagoe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
-                      <a href="http://www.medium.com/@elishaatosagoe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>
+<a href="http://www.medium.com/@elishaatosagoe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.twitter.com/elishasagoe " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/elishasagoe " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.youtube.com/c/sharpshootergh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/sharpshootergh"><img src="https://github-readme-stats.vercel.app/api?username=sharpshootergh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sharpshootergh's GitHub stats" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://www.youtube.com/c/sharpshootergh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+href="http://www.github.com/sharpshootergh"><img src="https://github-readme-stats.vercel.app/api?username=sharpshootergh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sharpshootergh's GitHub stats" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
