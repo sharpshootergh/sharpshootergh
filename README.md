@@ -9,7 +9,7 @@ Experienced PHP/Laravel developer skilled in coding, debugging, problem-solving,
 *   🌍  I'm based in GH, Accra
 *   ✉️  You can contact me at [elishaatosagoe@gmail.com](mailto:elishaatosagoe@gmail.com)
 *   🧠  I'm learning Kubernetes and monitoring
-*   🤝  I'm open to collaborating on CI/CD & Laravel projects
+*   🤝  I'm open to collaborating on Cloud,CI/CD & Laravel projects
 ### Skills 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
